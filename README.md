@@ -4,7 +4,7 @@
 
 * The code was taken from tuxguitar and converted to C++
 * It has lots of memeory leaks, it was done in one evenning.
-* On portions I used a java to cpp onverter then I tweaked generated code.
+* On portions I used java to cpp utilities, then manual fixes until the code compiled and ran.
 
 ### Projects using it:
 [Free online guitar tabs player](https://ghitara.com)
