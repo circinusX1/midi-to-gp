@@ -1,8 +1,9 @@
 # midi-to-gp
-## Converts midi to guitar pro, Tuxguitar, conversion engine dirty ported from java to cpp using here and there a tool I forgot.
+## Converts midi to guitar pro, Tuxguitar, 
+### Tux code extracts were converted from from java to cpp
 
-* It has lots of memeory leaks, , it was done in one evenning, but rans once and exits.
-* On portions I used a java to cpp onverter then i tweaked generated code util all compiled fine.
+* It has lots of memeory leaks, it was done in one evenning.
+* On portions I used a java to cpp onverter then I tweaked generated code.
 
 ### Projects using it:
-[GHITARA.COM](https://ghitara.com)
+[Free online guitar tabs player](https://ghitara.com)
