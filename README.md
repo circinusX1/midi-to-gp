@@ -24,19 +24,27 @@
         *./gmidigp midifile.midi gpfile.gp5 transpose #   where transpose 1 means 1 semitone (-14..+14), usually 0
         * example:
             * ./gmidigp ./test.mid ./out.gp5 0  # this MIDI is not intended gor guitar instrument, find yourself MIDI's for guitar
-            * then goto this link: 
+            * then goto this link 
 --
 
-(ghitara.com)[https://ghitara.com](https://ghitara.com/?play2=G/GuitarPlayerLicksAndLessons/GuitarPlayerLicksAndLessons-BeginersManual.gp4&)]
+[ghitara.com](https://ghitara.com/?play2=G/GuitarPlayerLicksAndLessons/GuitarPlayerLicksAndLessons-BeginersManual.gp4&)
 
 --
+   * Open file from your PC
 
 ![image](https://github.com/user-attachments/assets/e4009dba-8b6d-47f4-ad3a-c7bb2062f81d)
 
 --
+    * Broswe for the file
 
 ![image](https://github.com/user-attachments/assets/ffb24ca0-cbb1-48f9-ab8d-22c3bd4b5ea7)
 
+
+   * Play the file
+
+   * Eventually select the track for guitar
+
+![image](https://github.com/user-attachments/assets/9862d0aa-eb55-40b2-9101-2d763dae4e2d)
 
 
          
