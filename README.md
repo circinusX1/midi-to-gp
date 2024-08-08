@@ -7,5 +7,8 @@
 * On portions I used java to cpp utilities, then manual fixes until the code compiled and ran.
 
 ### Projects using it:
-    * [Free online guitar tabs player](https://ghitara.com)
-    * [6 coils guitar pickup](https://exicoil.from-ca.com/)
+[Free online guitar tabs player](https://ghitara.com)
+
+
+### ΕΞΙ-COILS GUITAR PICKUP
+[ΕΞΙ-COIL, 6 coils guitar pickup](https://exicoil.from-ca.com/)
