@@ -1,5 +1,5 @@
 # midi-to-gp
-## Converts midi to guitar pro, Tuxguitar, 
+## Converts midi to guitar pro
 ### Thanks to (https://www.tuxguitar.app/)
 
 * The code was taken from tuxguitar and converted to C++
