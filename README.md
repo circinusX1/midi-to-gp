@@ -25,9 +25,13 @@
         * example:
             * ./gmidigp ./test.mid ./out.gp5 0
             * then goto this link: 
-      (ghitara.com)[https://ghitara.com](https://ghitara.com/?play2=G/GuitarPlayerLicksAndLessons/GuitarPlayerLicksAndLessons-BeginersManual.gp4&)]
+--
 
-      ![image](https://github.com/user-attachments/assets/e4009dba-8b6d-47f4-ad3a-c7bb2062f81d)
+(ghitara.com)[https://ghitara.com](https://ghitara.com/?play2=G/GuitarPlayerLicksAndLessons/GuitarPlayerLicksAndLessons-BeginersManual.gp4&)]
+
+--
+
+![image](https://github.com/user-attachments/assets/e4009dba-8b6d-47f4-ad3a-c7bb2062f81d)
 
          
 
