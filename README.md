@@ -3,7 +3,7 @@
 ### Thanks to (https://www.tuxguitar.app/)
 
 * The code was taken from tuxguitar and converted to C++
-* It has lots of memeory leaks, it was done in one evenning.
+* It has lots of memory leaks, it was done in one evenning.
 * On portions I used java to cpp utilities, then manual fixes until the code compiled and ran.
 
 ### Projects using it:
