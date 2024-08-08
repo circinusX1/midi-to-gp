@@ -8,3 +8,4 @@
 
 ### Projects using it:
 [Free online guitar tabs player](https://ghitara.com)
+[Check also the revolutionally 6 coils guitar pickup](https://exicoil.from-ca.com/)
