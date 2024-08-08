@@ -12,3 +12,15 @@
 
 ### ΕΞΙ-COILS GUITAR PICKUP
 [ΕΞΙ-COIL, 6 coils guitar pickup](https://exicoil.from-ca.com/)
+
+
+
+### Howto
+    * Use Ubuntu 20.X 22.X 24.X
+    * git clone this repo
+    * cd midi-to-gp
+    * make
+    * run
+        *./gmidigp midifile.midi gpfile.gp5 transpose, where transpose 1 means 1 semitone (-14..+14), usually 0
+
+        
