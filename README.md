@@ -23,7 +23,7 @@
     * run
         *./gmidigp midifile.midi gpfile.gp5 transpose #   where transpose 1 means 1 semitone (-14..+14), usually 0
         * example:
-            * ./gmidigp ./test.mid ./out.gp5 0
+            * ./gmidigp ./test.mid ./out.gp5 0  # this MIDI is not intended gor guitar instrument, find yourself MIDI's for guitar
             * then goto this link: 
 --
 
