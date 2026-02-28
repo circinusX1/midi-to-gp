@@ -2,6 +2,17 @@
 ## Converts midi to guitar pro
 ### Thanks to (https://www.tuxguitar.app/)
 
+
+
+### P.S.
+  
+* Software related music:
+  * 
+      * [![Found this funny video](https://ghitara.com/images/local_gith.png)](https://www.youtube.com/@AIureaSonus)
+   
+
+    
+
 * The code was taken from tuxguitar and converted to C++
 * It has lots of memory leaks, it was done in one evenning.
 * On portions I used java to cpp utilities converters then manually I added fixes 'till compiled.
